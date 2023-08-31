@@ -22,4 +22,4 @@ as dependências e salvar os pacotes no renv.lock, garantindo assim a reproducib
 ## Contribuindo
 
 
-### Lisença
+### Licença
